@@ -1,0 +1,7 @@
+{
+  "extends": "@namics/ts-config",
+  "compilerOptions": {
+    "removeComments": false
+  },
+  "exclude": ["dist", "build", "node_modules", "__tests__"]
+}
